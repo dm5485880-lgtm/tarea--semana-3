@@ -1,3 +1,4 @@
+Explicación corta de los siguientes conceptos:
 Repositorio: Es el lugar donde se guardan los archivos y cambios de un proyecto de programación.
 Commit: Es una acción que permite guardar los cambios realizados en el proyecto con un mensaje descriptivo.
 Push: Es el comando que sirve para enviar los cambios del repositorio local a un repositorio en línea, como GitHub.
